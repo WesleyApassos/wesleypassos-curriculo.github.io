@@ -1,0 +1,74 @@
+body{
+    color: rgb(37, 36, 36);
+    font-family: 'Raleway', sans-serif;
+    background: #eeeded;
+    margin:5px;
+    
+}
+.container{
+        width: 950px;
+        margin: 0 auto;
+}
+.profile{
+    text-align: center;
+}
+
+.foto-wesley{
+    border: 2px solid #FFFFFF; /*formato shorthand*/ 
+    /*border-color: 5px;
+    border-width: solid; <!-- Formato de escrita um a um -->
+    border-style: #FFFFFF;
+    */ 
+    
+    border-radius: 50%;
+    /*borda arredondada imagem*/
+
+    padding: 0px; 
+    /*espaçamento interno*/
+    
+    box-shadow: 0px 0px 10px 2px rgb(221, 220, 220);
+    /*sombreamento imagem ou elemento*/
+
+    margin: 40px 20px 10px /*formato shorthant*/
+   /* margin-top: 40px;
+    margin-bottom: 60px;
+    margin-right: 35px; */
+    }
+
+    h1{ 
+        font-size: 45px;
+        margin-bottom: 0;
+        letter-spacing: -1px;
+        font-family: 'Fjalla One', sans-serif;
+        margin-top:10px;
+               
+        }
+        h2{
+            font-size: 25px;
+            margin-top: 15px;
+            font-style: italic;
+            color: rgb(56, 56, 56);
+            letter-spacing: -1px;
+            font-family: 'Fjalla One', sans-serif;
+            margin-bottom: 10px;
+        }
+
+        .email-icon{
+            
+          margin-right: 10px;
+          width: 25px;
+        }
+        .social-link{
+            text-decoration: none;
+        }
+          .linkdin-logo{
+           
+            margin-left: 10px;
+           width: 25px;
+        }
+        .footer{
+            color:#FFFFFF;
+            margin-top: 25px;
+            background: black;
+            text-align: rgb(255, 255, 255);
+        }
